@@ -1,1 +1,1 @@
-# hriseon-code-factor
+# horiseon-code-factor
